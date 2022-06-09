@@ -1,0 +1,1 @@
+/home/bertha/Desktop/3399/YOLOv5-RK3399Pro-master/coco128/images/train2017/000000000009.jpg
