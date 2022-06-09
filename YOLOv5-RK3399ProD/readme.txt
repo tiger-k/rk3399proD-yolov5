@@ -1,4 +1,5 @@
-本代码是从项目修改而来，运行的时候不方便就重新
+本代码是从项目修改而来，运行的时候不方便就重新修改了一下
+  https://github.com/littledeep/YOLOv5-RK3399Pro
 rk3399proD系统: debian10  x86主机系统: ubuntu18.4
 
 本工程实现两个功能：
